@@ -12,4 +12,4 @@ CRAN packages:
 ## Simulation Study 1
 This folder contains two subfolders: 
 1. containing the script to run the first simulation study **Effect of sample size on predictive and graph recovery power**. The main functions needed to implement the jcglasso estimator are contained at the following link **[JCGLASSO](https://github.com/gianluca-sottile/Hematopoiesis-network-inference-from-RT-qPCR-data/tree/main/01%20-%20RCode)**
-2. all the figures of the manuscript of the first simulation scenario
+2. containing all the figures of the manuscript of the first simulation scenario
